@@ -8,7 +8,7 @@ int _tmain(int argc, _TCHAR* argv[])
 {
 
 	printf("test04_1\n");
-	printf("modify on branch_01_again_XD");
+	printf("000");
 	system("pause");
 	return 0;
 }
